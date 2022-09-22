@@ -1,4 +1,5 @@
 <?php
+
 $array["Lunes"][1]["modulo"] = "EMR";
 $array["Lunes"][1]["profesor"] = "MARIA DEL SOL";
 $array["Lunes"][1]["taller"] = "201"."<br>";
