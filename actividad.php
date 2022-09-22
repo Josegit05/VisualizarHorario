@@ -2,9 +2,9 @@
 
 function enlace()
 {
-    global $array;
+    
     echo "Consulta el horario";
-    include 'vars.php';
+    include 'enlace.php';
 
     
 }
