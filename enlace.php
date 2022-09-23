@@ -125,7 +125,7 @@ foreach($array as $dia=>$valor){
     echo "<table style='display: inline'>";
     echo "<tr style='border-collapse:collapse; border: 1px solid black'>";
     echo "<th style='border-collapse:collapse; border: 1px solid black'>HORA</th>";
-    echo "<th style='border-collapse:collapse; border: 1px solid black'>".$dia."</th>";
+    echo "<th colspan='3' style='border-collapse:collapse; border: 1px solid black;background-color:rgb(28, 255, 228)'>".$dia."</th>";
     
     foreach($valor as $hora=>$valor2){
        foreach($valor2 as $modulo=>$valor3){
